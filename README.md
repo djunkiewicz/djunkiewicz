@@ -6,6 +6,7 @@
 - 📫 How to reach me **junkiewicz.damian@gmail.com**
 
 <h3 align="left">My skills:</h3>
+
   - Object-oriented programming
  
   - SQL basics
