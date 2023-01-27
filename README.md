@@ -1,6 +1,8 @@
 <h1 align="left">About me</h1>
 <h3 align="left">I am a programming enthusiast currently working as an automation engineer in the process industry department.</h3>
 
+At work, I quickly discovered that solving problems with the use of programming tools gives me the greatest satisfaction. I am also a hard-working person who likes to learn about new technologies. For this reason, I decided to direct my further career on tracks more related to IT.
+
 - 🌱 I’m currently learning **Java, Spring, Hibernate**
 
 - 📫 How to reach me **junkiewicz.damian@gmail.com**
