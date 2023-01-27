@@ -7,20 +7,13 @@
 
 <h3 align="left">My skills:</h3>
 
-  - Object-oriented programming
- 
-  - SQL basics
-  
-  - Knowledge of GIT
-  
-  - Analytical thinking
-  
-  - Problem solving
-  
-  - Teamwork
-  
-  - Negotiation skills
-  
+  - Object-oriented programming\
+  - SQL basics\
+  - Knowledge of GIT\
+  - Analytical thinking\
+  - Problem solving\
+  - Teamwork\
+  - Negotiation skills\
   - English B2
 
 <h3 align="left">Connect with me:</h3>
