@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Damian</h1>
-<h3 align="center">Programming enthusiast currently working as an automation engineer in the process industry department.</h3>
+<h1 align="left">Hi 👋, I'm Damian</h1>
+<h3 align="left">Programming enthusiast currently working as an automation engineer in the process industry department.</h3>
 
 - 🌱 I’m currently learning **Java, Spring, Hibernate**
 
