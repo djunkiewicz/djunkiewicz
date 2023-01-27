@@ -1,7 +1,7 @@
 <h1 align="left">About me</h1>
 <h3 align="left">I am a programming enthusiast currently working as an automation engineer in the process industry department.</h3>
 
-At work, I quickly discovered that solving problems using programming tools gives me the greatest satisfaction. I am also a hard-working person who likes to learn new technologies. For these reasons, I decided to direct my further career to more IT-related tracks.
+At work, I quickly discovered that solving problems using programming tools gives me the greatest satisfaction. I am also a hard-working person who enjoys learning new technologies. For these reasons, I decided to direct my further career to more IT-related tracks.
 
 - 🌱 I’m currently learning **Java, Spring, Hibernate**
 
