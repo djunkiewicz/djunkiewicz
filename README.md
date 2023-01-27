@@ -12,9 +12,9 @@
 
 <h3 align="left">My skills and strenghts::</h3>
 <p align="left">
-- Java basics,
-  - OOP
-  - problem solving
+  - Java basics**
+  - OOP**
+  - problem solving**
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
