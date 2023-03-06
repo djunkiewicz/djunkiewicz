@@ -3,7 +3,7 @@
 
 At work, I quickly discovered that solving problems using programming tools gives me the greatest satisfaction. I am also a hard-working person who enjoys learning new technologies. For these reasons, I decided to direct my further career to more IT-related tracks.
 
-- 🌱 I’m currently learning **Java, Spring, Hibernate**
+- 🌱 I’m currently learning **Java, Hibernate, Design Patterns**
 
 - 📫 How to reach me **junkiewicz.damian@gmail.com**
 
@@ -12,6 +12,8 @@ At work, I quickly discovered that solving problems using programming tools give
   - Object-oriented programming
   - SQL basics
   - Knowledge of GIT
+  - basics of Spring Boot
+  - basics of creating a RESTful API
   - Analytical thinking
   - Problem solving
   - Teamwork
