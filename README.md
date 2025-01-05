@@ -31,7 +31,7 @@ At work, I quickly discovered that solving problems using programming tools give
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.java.com" target="_blank" rel="noreferrer" style="padding-left: 20px; color: transparent;">
-    <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="java" height="40" />
+    <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="java" height="40" style="padding-left: 20px; color: transparent;"/>
   </a>
   <a href="https://git-scm.com/" style="padding-left: 20px; color: transparent;">
     <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="git" height="40" />
