@@ -1,7 +1,7 @@
 <h1 align="left">About me</h1>
 <h3 align="left">I am a software developer in an automotive company</h3>
 
-At work, I quickly discovered that solving problems using programming tools gives me the greatest satisfaction. I am also a hard-working person who enjoys learning new technologies. I am currently developing in addition to my work in the area of web applications.
+At work, I quickly discovered that solving problems using programming tools gives me the greatest satisfaction. I am also a hard-working person who enjoys learning new technologies. I am currently expanding my skills in web application development alongside my regular work.
 
 - 🌱 I’m currently learning **Node.js, React, Design Patterns**
 
